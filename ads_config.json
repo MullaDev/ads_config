@@ -1,8 +1,15 @@
 {
-  "version": 5,
-  "ads_enabled": false,
-  "banner_ad_unit": "ca-app-pub-3940256099942544/6300978111",
+  "version": 3,
+  "last_updated": "2025-10-30",
+  "ads_enabled": true,
+  "show_banner_ads": true,
+  "show_interstitial_ads": true,
+  "show_native_ads": true,
+  "interstitial_interval_seconds": 60,
+  "banner_ad_unit": "ca-app-pub-2465853854600127/7884454487",
   "interstitial_ad_unit": "ca-app-pub-3940256099942544/1033173712",
   "native_ad_unit": "ca-app-pub-3940256099942544/2247696110",
-  "app_id": "ca-app-pub-2465853854600127~3790130954"
+  "app_id": "ca-app-pub-2465853854600127~3790130954",
+  "test_mode": false,
+  "test_devices": []
 }
