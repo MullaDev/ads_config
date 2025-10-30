@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "last_updated": "2025-10-31",
   "ads_enabled": false,
   "show_banner_ads": false,
@@ -10,6 +10,6 @@
   "interstitial_ad_unit": "ca-app-pub-3940256099942544/1033173712",
   "native_ad_unit": "ca-app-pub-3940256099942544/2247696110",
   "app_id": "ca-app-pub-2465853854600127~3790130954",
-  "test_mode": false,
+  "test_mode": true,
   "test_devices": []
 }
