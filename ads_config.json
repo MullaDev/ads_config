@@ -1,12 +1,14 @@
 {
-  "version": 7,
+  "version": 8,
   "last_updated": "2025-10-31",
   "ads_enabled": true,
   "show_banner_ads": true,
   "show_interstitial_ads": true,
-  "show_native_ads": true,
-  "banner_ad_unit": "ca-app-pub-2465853854600127/7884454487",
-  "interstitial_ad_unit": "ca-app-pub-3940256099942544/1033173712",
-  "native_ad_unit": "ca-app-pub-3940256099942544/2247696110",
-  "app_id": "ca-app-pub-2465853854600127~3790130954"
+  "show_native_ads": false,
+  "show_rewarded_interstitial_ads": false,
+  "banner_ad_unit": "ca-app-pub-5942914006982091/7534524057",
+  "interstitial_ad_unit": "ca-app-pub-5942914006982091/7256990750",
+  "native_ad_unit": "ca-app-pub-5942914006982091/5043435545",
+  "rewarded_interstitial_ad_unit": "",
+  "app_id": "ca-app-pub-5942914006982091~9168714510"
 }
