@@ -1,18 +1,20 @@
 {
-  "version": 9,
-  "last_updated": "2025-11-03",
+  "version": 10,
+  "last_updated": "2025-11-04",
+
   "ads_enabled": true,
   "show_banner_ads": true,
   "show_interstitial_ads": true,
-  "show_native_ads": false,
-  "interstitial_interval_seconds": 60,
+  "show_native_ads": true,
+
+  "app_id": "ca-app-pub-5942914006982091~9168714510",
+
   "banner_ad_unit": "ca-app-pub-5942914006982091/7534524057",
   "interstitial_ad_unit": "ca-app-pub-5942914006982091/7256990750",
   "native_ad_unit": "ca-app-pub-5942914006982091/5043435545",
-  "app_id": "ca-app-pub-5942914006982091~9168714510",
-  "test_mode": false,
-  "test_devices": [
-    "33BE2250B43518CCDA7DE426D04EE231",
-    "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6"
-  ]
+
+  "app_name": "IWACU VPN",
+  "banner_name": "IwacuBanner",
+  "interstitial_name": "IwacuInterstitial",
+  "native_name": "IwacuNative"
 }
